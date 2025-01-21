@@ -1,5 +1,3 @@
-# grpc-poc
-Here’s a short and clear GitHub README for your gRPC project:
 
 ---
 
